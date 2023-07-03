@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body  {
+  background-image: url("tempp.jpg");
+  background-color: #cccccc;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: aqua;}
+
+
+
+ input[type=submit]{
+  background-color: aqua;
+  border: solid;
+  color: black;
+  padding: 32px 64px;
+  text-decoration: solid;
+  margin: 10px 10px;
+  cursor: pointer;
+}

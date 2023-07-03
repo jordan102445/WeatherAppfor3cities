@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/forecast?q=Skopje &appid=3797821ada1d4de6d62f3ed64a285663
